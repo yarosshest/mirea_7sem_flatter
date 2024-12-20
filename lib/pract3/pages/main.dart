@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mirea_7sem_flatter/pract3/pages/taskStarter.dart';
+import 'package:pract3/pract3/pages/taskStarter.dart';
 
 import 'logout.dart';
 class HomePage extends StatefulWidget {
